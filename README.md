@@ -2,9 +2,8 @@
  
 Catalogo interattivo delle monete da 2 euro commemorative emesse dai paesi dell'area euro e dalle emissioni comuni, dal 2004 al 2026.
  
-🔗 **Sito live:** [chiaresballa.github.io/tracker-2-euro-commemorativi](https://chiaresballa.github.io/tracker-2-euro-commemorativi/)
-%md <a href="https://chiaresballa.github.io/tracker-2-euro-commemorativi/" target="_blank" rel="noopener noreferrer">chiaresballa.github.io/tracker-2-euro-commemorativi</a>
- 
+🔗 **Sito live:** [chiaresballa.github.io/tracker-2-euro-commemorativi](https://chiaresballa.github.io/tracker-2-euro-commemorativi/){:target="_blank"}
+
 ## Funzionalità
  
 - 615 monete censite, con immagine, paese, anno e titolo dell'emissione
